@@ -4,7 +4,7 @@
 	<a href="regulamin.php">[  <?php echo $content->getValue("footer", "regulamin") ?> ]</a>
 	<br/>
 	<div class="footer">
-		Copyright &copy; 2013<br />
+		Copyright &copy; 2016<br />
 		Webmaster: <a href="mailto:daggeto@gmail.com">daggeto@gmail.com</a>
 	</div>
 	<div id="banners" >
