@@ -1,0 +1,237 @@
+* {
+margin:0 auto;
+}
+body{
+font-family:Arial, Sans-serif;
+text-align:center;
+background:#000 url(img/woven.png);
+color:#fff;
+}
+#header{
+height:80px;
+text-align:left;
+margin-top:10px;
+width:740px;
+}
+.nazwa {
+display:block;
+float:left;
+color:#dd9c04;
+font-size:32px;
+font-weight:bold;
+text-shadow: 1px 1px 3px #8d6403;
+font-style:italic;
+}
+.like {
+float:left;
+margin-top:23px;
+padding-left:20px;
+}
+.slogan {
+display:block;
+float:right;
+padding-top:20px;
+color:#fff;
+font-size:22px;
+}
+#menu{
+margin:0px auto;
+width:740px;
+text-align:left;
+font-weight:bold;
+font-size:12px;
+}
+#menu ul, #menu ul li {
+	display: block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#menu ul {
+	width: 100%;
+	padding-right: 20px;
+	margin-top: 10px;
+}
+
+#menu ul li {
+	margin-right: 10px;
+	display: inline;
+}
+
+#menu ul a {
+	text-decoration: none;
+	color: #FFF;
+	font-size:14px;
+	padding: 5px 10px;
+	border-bottom: 3px solid #1E90FF;
+    position: relative;
+	top: -1px;
+	
+}
+
+#menu ul a:hover {
+	border-color: #FFA500;
+}
+a {
+	color:#b9b9b9; text-decoration:none;
+}
+a:hover {
+	color:#ffd500;
+}
+
+#content{
+text-align:left;
+margin:0 auto;
+width:700px;
+position:relative;
+top:20px;
+background:url(img/cont_bg.png);
+box-shadow:0px 0px 10px #151515;
+padding:20px;
+border-radius: 6px;
+font-size:12px;
+}
+#content h1 {
+font-size:24px;
+font-weight:bold;
+margin:10px 0px;
+color: #FFB903;
+border-bottom:2px ridge #FFB903;
+}
+#content table {
+font-size:12px;
+}
+#content .pole {
+border:0;
+background:#fff;
+width:170px;
+padding:5px;
+margin:2px;
+font-weight:bold;
+border-radius:3px;
+}
+#content textarea{
+border:0;
+background:#fff;
+width:400px;
+height:125px;
+padding:2px;
+margin:2px;
+font-weight:bold;
+border-radius: 3px;
+}
+/* CODE BY KLOCEK & Quik */
+
+.shit {
+text-align:center;
+background:#000;
+border:1px solid #4d4d4d;
+padding:10px;
+margin-top:10px;
+margin-bottom:20px;
+border-radius: 6px;
+}
+
+.shit img {
+max-width: 670px;
+margin-bottom:8px;
+}
+
+.fb-like {
+display: block;
+width: 100%;
+padding-top: 8px;
+text-align: center;
+}
+
+.img_title {
+	width:100%;
+	text-align:left;
+}
+.img_title a {
+	font-size:24px;
+	color:#06aee6;
+	font-weight:bold;
+}
+
+.button, .button:hover {
+	background:#009200;
+	padding:8px 15px;
+	border-radius:5px;
+	border:2px solid #CCC;
+	color:#FFF;
+	font-size:19px;
+	font-weight:bold;
+	text-decoration:none;
+}
+.button:hover {
+	background:#00A500;
+}
+#content .strony {
+text-align:center;
+margin:0 auto;
+margin-top:30px;
+font-size:14px;
+font-weight:bold;
+}
+#stopka {
+text-align:center;
+margin:0 auto;
+width:740px;
+padding:30px;
+font-size:14px;
+}
+img {
+border:0px;
+}
+.tabela tr:hover { background:#0F0F0F; }
+/* begin css tabs */
+
+ #tab ul {
+		list-style-type: none;
+		padding: 0; 
+		margin: 0;
+		position:relative;
+		bottom:-1px;
+		z-index:99;
+    }
+	#tab li {
+		float: left;
+		border: 1px solid #FFB903;
+		margin-left:10px;
+    }
+	#tab a {
+		text-decoration: none;
+		display: block;
+		background: #3d3d3d;
+		padding: 6px 1em;
+		text-align: center;
+    }
+	#tab a:hover {
+		background: #3d3d3d;
+		}
+	#tab #selected {
+		border-bottom-color: #171717;
+	}
+	#tab #selected a {
+		background: #171717;
+		font-weight: bold;
+	}
+	#tab_linia{
+		border-top: 1px solid #FFB903;
+		clear: both;
+		padding-bottom: 10px;
+	}
+
+/* end css tabs */
+label { float:left; display:inline; width:140px; line-height:2; margin-right:20px; text-align:right;} 
+.footer {
+	margin-top:10px;
+	color:#606060;
+	font-size:10px;
+	font-weight:bold;
+}
+.footer a {
+	color:#c08803;
+}

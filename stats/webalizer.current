@@ -1,0 +1,198 @@
+# Webalizer V2.21-02 Incremental Data - 12/06/2013 13:31:19
+2013 12 6 13 31 19
+64 38 9 20 2 2 1467719 24 22 0
+3 16 16 1 6
+4 2 7096 2 2 2
+6 3 9969 3 3 3
+18 7 23016 3 7 7
+9 5 16211 1 5 4
+7 4 12663 2 4 3
+20 17 1398764 3 3 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 3548 1
+0 0 0 0
+2 1 3548 1
+2 1 3548 1
+0 0 0 0
+0 0 0 0
+2 1 3548 1
+1 0 208 0
+3 2 6538 2
+6 3 10630 3
+0 0 0 0
+3 2 5567 2
+8 2 6875 2
+18 16 1395566 2
+0 0 0 0
+0 0 0 0
+2 1 3015 1
+1 0 208 0
+2 2 5359 2
+0 0 0 0
+2 1 3015 1
+5 2 7304 2
+3 2 6355 2
+2 1 2887 1
+0
+0
+0
+38
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+21
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/img/upload/tekst_obrazek/20131023183313.png
+1 2 0 569086 0 0
+/
+0 15 0 50104 15 9
+/img/upload/obrazek/20131023183155.JPG
+1 2 0 77748 0 0
+/js/jquery-1.8.2.js
+0 1 0 79207 0 0
+/img/upload/obrazek/20131023183631.JPG
+1 2 0 69882 0 0
+/themes/tylkotakieco/js/functions.js
+0 1 0 444 0 0
+/img/logo.png
+1 1 0 15898 0 0
+/img/head_bg_dark.png
+1 1 0 293 0 0
+/login.php
+0 2 0 5598 2 0
+/img/upload/tekst_obrazek/20131023182951.png
+1 2 0 542275 0 0
+/img/upload/obrazek/20131023182635.JPG
+1 2 0 25032 0 0
+/img/fb.png
+1 1 0 1999 0 0
+/regulamin.php
+0 1 0 2990 1 0
+/img/head_bg.png
+1 1 0 405 0 0
+/favicon.ico
+0 1 0 1150 0 0
+/rejestracja.php
+0 3 0 8421 3 2
+/img/head_bg_bottom.png
+1 1 0 3107 0 0
+/dodaj.php
+0 2 0 5120 0 1
+/kontakt.php
+0 1 0 2679 1 1
+/themes/tylkotakieco/style.css
+0 1 0 1958 0 0
+# End Of Table - urls
+# -sites- (monthly)
+157.56.92.158
+0 2 1 3198 1 1386317151
+/regulamin.php
+65.55.52.118
+0 2 1 3548 1 1385868946
+/
+157.55.36.36
+0 2 1 3548 1 1386321861
+/
+157.55.33.214
+0 20 11 35309 9 1386244592
+/dodaj.php
+157.55.32.222
+0 6 3 9045 3 1386108812
+/rejestracja.php
+157.55.32.226
+0 2 1 3548 1 1385932814
+/
+195.14.173.2
+0 26 18 1402427 4 1386336678
+/
+157.56.93.85
+0 2 1 3548 1 1386279110
+/
+157.55.35.75
+0 2 1 3548 1 1385972375
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+157.56.92.158
+0 2 1 3198 1 1386317151
+/regulamin.php
+157.55.36.36
+0 2 1 3548 1 1386321861
+/
+195.14.173.2
+0 16 15 1392018 1 1386336678
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 43
+http://tylkotakieco.pl/
+0 21
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 38
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 26
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
