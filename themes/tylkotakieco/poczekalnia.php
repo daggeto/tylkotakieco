@@ -19,9 +19,11 @@
                         $yt_width = 480;
                         $yt_height = 390;
 
-                        $id_filmu=str_replace("http://www.youtube.com/watch?v=", "", $img['img']);
+                        $id_filmu=str_replace("https://www.youtube.com/watch?v=", "", $img['img']);
 
-                        echo '<object width="'.$yt_width.'" height="'.$yt_height.'"><param name="movie" value="http://www.youtube.com/v/'.$id_filmu.'?version=3&amp;hl=pl_PL"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/'.$id_filmu.'?version=3&amp;hl=pl_PL" type="application/x-shockwave-flash" width="'.$yt_width.'" height="'.$yt_height.'" allowscriptaccess="always" allowfullscreen="true"></embed></object>';
+                      echo '<iframe width="'.$yt_width.'" height="'.$yt_height.'"' .
+                        'src="http://www.youtube.com/embed/' . $id_filmu .'">' .
+                        '</iframe>';
                     }
 
                     echo '<div id="info">'

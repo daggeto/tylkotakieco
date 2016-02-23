@@ -185,7 +185,7 @@ if ($user->verifyLogin()) {
                         <tr name="adres" style="display:none">
                             <td class="tdLeft"><?php echo $content->getValue("dodaj","adresFilmu"); ?>:</td>
                             <td class="tdRight">
-                                    <input class="pole" type="text" name="adres">  <span >np. http://www.youtube.com/watch?v=wZZ7oFKsKzY</span>
+                                    <input class="pole" type="text" name="adres">  <span >np. https://www.youtube.com/watch?v=wZZ7oFKsKzY</span>
                             </td>
                         </tr>
                         <tr name="wiedza">

@@ -18,7 +18,7 @@
                     if($obj->isImage($item['type'])) {
                         echo '<meta property="og:image" content="http://'.$conf->host().'/'.$item['img'].'" />'."\n"; }
                     elseif($obj->isFlash($item['type'])) {
-			$id_filmu=str_replace("http://www.youtube.com/watch?v=", "", $item['img']);
+			$id_filmu=str_replace("https://www.youtube.com/watch?v=", "", $item['img']);
 			echo '<meta property="og:image" content="http://i.ytimg.com/vi/'.$id_filmu.'/default.jpg" />'."\n"; 
                     }
                     echo '<meta property="og:description" content="' . $conf->pobierz("tytul") . '" />';

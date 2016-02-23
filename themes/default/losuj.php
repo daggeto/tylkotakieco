@@ -16,7 +16,7 @@
 		}
 			
 		else if($img['type']==$flash_name) {
-				$id_filmu=str_replace("http://www.youtube.com/watch?v=", "", $img['img']);
+				$id_filmu=str_replace("https://www.youtube.com/watch?v=", "", $img['img']);
 				if($conf->pobierz('img_title')) {
 					echo '<div class="img_title"><a href="obrazek.php?'.$img['id'].'">'.$img['title'].'</a></div>';
 				}
