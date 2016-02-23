@@ -80,11 +80,11 @@
             .w2bslikebox span a{color: #808080;text-decoration:none;}
             .w2bslikebox span a:hover{text-decoration:underline;}
         </style>
-<div class="w2bslikebox" style="">
-            <div>
-                <iframe src="http://www.facebook.com/plugins/likebox.php?href=http://www.facebook.com/TylkoTakieCo?fref=ts&amp;width=245&amp;colorscheme=light&amp;show_faces=true&amp;connections=9&amp;stream=false&amp;header=false&amp;height=330" scrolling="no" frameborder="0" scrolling="no" style="border: medium none; overflow: hidden; height: 330px; width: 245px;background:#fff;"></iframe>
-            </div>
-        </div>
+<!--<div class="w2bslikebox" style="">-->
+<!--            <div>-->
+<!--                <iframe src="http://www.facebook.com/plugins/likebox.php?href=http://www.facebook.com/TylkoTakieCo?fref=ts&amp;width=245&amp;colorscheme=light&amp;show_faces=true&amp;connections=9&amp;stream=false&amp;header=false&amp;height=330" scrolling="no" frameborder="0" scrolling="no" style="border: medium none; overflow: hidden; height: 330px; width: 245px;background:#fff;"></iframe>-->
+<!--            </div>-->
+<!--        </div>-->
 
 </div>
 <script type="text/javascript">

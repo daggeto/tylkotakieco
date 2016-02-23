@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="../style.css" type="text/css" /> 
 	<link rel="stylesheet" href="../js/lytebox.css" type="text/css" media="screen" />
 	<script type="text/javascript" language="javascript" src="../js/lytebox.js"></script>
-	<title>TylkoTakieCo.pl - Panel Administracyjny :: <?php echo $title; ?></title>
+	<title>PolitykaGlupcze.pl - Panel Administracyjny :: <?php echo $title; ?></title>
 </head>
 
 <body>

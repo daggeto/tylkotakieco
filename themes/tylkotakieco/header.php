@@ -6,7 +6,7 @@
 	<meta name="keywords" content="<?php echo $conf->pobierz("tags"); ?>" />
 	<?php
 		$ex = explode("/",$_SERVER['SCRIPT_NAME']);
-		if($ex[1]=='obrazek.php' || $ex[2]=='obrazek.php') {
+		if($ex[1]=='obrazek.php') {
                     
                     if($item['content'] == null || $item['content']==""){
                         echo '<meta property="og:title" content="' . $item['title'] . '" />';
@@ -36,7 +36,7 @@
 	<div id="menu">
             <ul>
                 <li id="logo">
-                    <div  onclick="location.href='http://www.tylkotakieco.pl';"></div>
+                    <div  onclick="location.href='http://www.politykaglupcze.pl';"></div>
                 </li>
            
                 <li id="firstButton"><a class="<?php echo $obj->isSelectedPage('index'); ?>" href="index.php"><?php echo $content->getValue("global","glowna");?></a></li>
