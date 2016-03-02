@@ -45,7 +45,10 @@
     ga('send', 'pageview');
 
   </script>
-  <style type="text/css">
+<script>
+        $(document).ready(function() {$(".w2bslikebox").hover(function() {$(this).stop().animate({right: "0"}, "medium");}, function() {$(this).stop().animate({right: "-250"}, "medium");}, 500);});
+</script>
+    <style>
     .w2bslikebox {
       background: url("img/fb.png") no-repeat scroll left center transparent !important;
       display: block;
@@ -88,6 +91,12 @@
     .w2bslikebox span a:hover {
       text-decoration: underline;
     }
+</style>
+<div class="w2bslikebox" style="">
+            <div>
+                <iframe src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/politykaglupcze&amp;width=245&amp;colorscheme=light&amp;show_faces=true&amp;connections=9&amp;stream=false&amp;header=false&amp;height=330" scrolling="no" frameborder="0" scrolling="no" style="border: medium none; overflow: hidden; height: 330px; width: 245px;background:#fff;"></iframe>
+            </div>
+        </div>
 </div>
 <script type="text/javascript">
   init();
